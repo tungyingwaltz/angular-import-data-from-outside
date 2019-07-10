@@ -16,5 +16,4 @@ export class AppComponent  {
     this.dataJson = JSON.stringify(this.data);
    }
   name = 'Angular';
-  
 }
